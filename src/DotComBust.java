@@ -1,4 +1,5 @@
 import java.util.*;
+// design a game that the boat can move when it get hit
 
 public class DotComBust {
     private GameHelper helper = new GameHelper();
